@@ -1,0 +1,18 @@
+==================================================
+PHISHGUARD ANALYSIS REPORT
+Generated: 2026-05-25 08:22:21
+==================================================
+
+From       : PayPal Support <support@paypa1-security.com>
+Reply-To   : hacker@evil.com
+Subject    : URGENT: Your account has been suspended - verify now
+Date       : Mon, 25 May 2026 10:00:00 +0000
+
+SPOOFING FLAGS:
+  - Reply-To differs from From address
+  - Suspicious keywords in subject: urgent, verify, account, suspended
+  - Brand impersonation — display name vs domain mismatch: 'paypa1-security.com'
+
+SENDER IP: None
+
+URLs FOUND:
